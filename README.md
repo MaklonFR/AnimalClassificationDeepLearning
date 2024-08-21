@@ -1,7 +1,7 @@
 Submision Dicoding Indonesia - Kelas Belajar Pengembangan Machine Learning (Intermediate)
 Mempelajari tentang berbagai penerapan deep learning mulai dari klasifikasi gambar dan teks, time series, sistem rekomendasi, hingga Generative AI.
 
-**Result**
+**Result Training Model**
 
 ![image](https://github.com/user-attachments/assets/b44e9b62-0c7e-4521-bea0-de6a39cf3c8e)
 
