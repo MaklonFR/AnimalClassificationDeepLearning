@@ -9,3 +9,7 @@ Mempelajari tentang berbagai penerapan deep learning mulai dari klasifikasi gamb
 
 ![image](https://github.com/user-attachments/assets/4f5af3a2-3153-42e3-a4e5-d32809f9fe11)
 
+**Testing Mdel in Android App using Kotlin Programming**
+
+![image](https://github.com/user-attachments/assets/7bc51ca7-7ae5-4f67-b612-2aa4a02c14d5)
+
