@@ -13,3 +13,6 @@ Mempelajari tentang berbagai penerapan deep learning mulai dari klasifikasi gamb
 
 ![image](https://github.com/user-attachments/assets/7bc51ca7-7ae5-4f67-b612-2aa4a02c14d5)
 
+*Link YouTube*
+https://youtu.be/2CRgmmI1Ez4
+
