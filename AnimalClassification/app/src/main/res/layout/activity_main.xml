@@ -1,0 +1,32 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        style="@style/ImageViewStyle"
+        android:layout_width="match_parent"
+        android:contentDescription="@string/app_name"
+        tools:ignore="ImageContrastCheck" />
+
+    <Button
+        android:id="@+id/btnChooseImage"
+        android:layout_height="wrap_content"
+        style="@style/ButtonStyle"
+        android:text="Choose Image"
+        android:layout_width="match_parent"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TextViewStyle"
+        android:text="Result will be displayed here"
+        android:layout_marginTop="16dp"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

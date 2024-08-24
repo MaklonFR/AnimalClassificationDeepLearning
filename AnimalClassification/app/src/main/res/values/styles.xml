@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="android:buttonStyle">@style/ButtonStyle</item>
+    </style>
+
+    <!-- Button Style -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/colorAccent</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- TextView Style -->
+    <style name="TextViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/textColorPrimary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <!-- ImageView Style -->
+    <style name="ImageViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:layout_height">360dp</item>
+    </style>
+
+</resources>
