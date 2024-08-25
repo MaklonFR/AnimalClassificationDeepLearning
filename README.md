@@ -15,6 +15,9 @@ Mempelajari tentang berbagai penerapan deep learning mulai dari klasifikasi gamb
 
 **3. Testing Model CNN (TFJS Model) in WebApp using HTML CSS & Javascript**
 
+![image](https://github.com/user-attachments/assets/472e2d48-b2f4-4fc1-82d1-eb3588cab88b)
+
+
 **3. Link YouTube**
 https://youtu.be/2CRgmmI1Ez4
 
