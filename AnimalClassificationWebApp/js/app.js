@@ -1,4 +1,4 @@
-let path_model = 'https://www.smkn1kuwus.sch.id/model_machine_learning/tfjs_model/model.json';
+var path_model = 'https://www.smkn1kuwus.sch.id/model_machine_learning/tfjs_model/model.json';
 let model;
 
 // Load the model
